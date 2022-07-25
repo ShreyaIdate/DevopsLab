@@ -6,3 +6,7 @@ Line 5
 MASTER Branch content
 new line 1
 new line 2
+new branch lines
+line1
+lin2
+line3
